@@ -1,8 +1,20 @@
 # 💫 About Me:
-Hi, I'm Aryan Gaba 👋  
-I’m a passionate software developer with around 2 years of hands-on experience, focused on backend and full-stack development. I enjoy building scalable and efficient applications using Java, Spring Boot, React, and Redis while continuously improving my understanding of software engineering principles. Currently, I’m working on full-stack web applications and exploring real-time and scalable system architectures. I’m open to collaborating on Java, Spring Boot, and system design projects, and I’m actively looking to learn more about microservices architecture and distributed systems. My current learning journey includes System Design, Kafka, advanced Java, multithreading, and distributed systems. Feel free to ask me about Java, DSA, OOP, DBMS, and backend development.
+# Hi, I'm Aryan Gaba 👋
 
-⚡ Fun fact: I enjoy diving into system internals — Operating Systems, Computer Networks, and performance optimization.<br>
+I’m a passionate software developer with around 2 years of hands-on experience, focused on backend and full-stack development. I enjoy building scalable and efficient applications while continuously improving my understanding of software engineering principles. Currently, I’m working on full-stack web applications and exploring real-time and scalable system architectures. I’m open to collaborating on Java, Spring Boot, and system design projects, and I’m actively learning more about microservices, distributed systems, and backend scalability. Feel free to ask me about Java, DSA, OOP, DBMS, and backend development.
+
+### 🛠️ Skills & Technologies
+
+**Languages:** Java, JavaScript, SQL, HTML, CSS  
+**Backend:** Spring Boot, Node.js, Express.js, NestJS  
+**Frontend:** React.js, React Native  
+**Databases & Caching:** MySQL, MongoDB, Redis  
+**State Management:** Redux, Redux Toolkit  
+**Real-time & Messaging:** Socket.io, Kafka  
+**Developer Tools:** Git, GitHub, Postman, Firebase  
+**Core CS:** DSA, OOP, Operating Systems, Computer Networks, DBMS, System Design  
+
+⚡ **Fun fact:** I enjoy diving into system internals — Operating Systems, Computer Networks, and performance optimization.<br>
 
 
 ## 🌐 Socials:
